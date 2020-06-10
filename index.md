@@ -1,9 +1,7 @@
 ---
 title: "In Memory of Sally Anthony Taylor"
-notitle: "true"
+subtitle: "Remembering Sally and Connecting with the Family"
 ---
-
-Remembering Sally and Connecting with the Family
 
 Sally Anthony Taylor peacefully passed from her earthly-home in Ames, IA to her heavenly-home on June 5, 2020--culminating a wonderful and rich lifetime of experiences.  A Memorial Service will be held for Sally at the Heartland Baptist Church in Ames on June 19th at 2 pm.
 
