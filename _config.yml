@@ -13,7 +13,7 @@ style:
   dark: false
 
 navigation:
-  - index.md
+  # - index.md
 
 comments:
 #  disqus: "disqus-contrast"
