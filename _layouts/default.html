@@ -6,7 +6,7 @@ layout: blank
     <header>
       {% if page.notitle != 'true' %}
       <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-      {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+      {% if page.subtitle %}<h4>{{ page.subtitle }}</h4>{% endif %}
       {% endif %}
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </header>
