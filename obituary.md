@@ -18,5 +18,3 @@ Sally & Don were greatly blessed to live their 80+ years in roughly equal "20-ye
 Sally had a heart to serve others and was an accomplished cook, baker, & seamstress. Her latter accomplishments included sewing Don's university graduation-gown & hood and Stacia's wedding & bridesmaids' dresses. She deeply loved her children and was effective in teaching them to be persons of character & talent.
 
 Prior to having children, Sally taught elementary school at the American Community School in Beirut, Lebanon and later at the International School of Kuala Lumpur, Malaysia. She was a wonderful stay-at-home Mom and volunteered at church and in the community.
-
-On this website, you can find links to view the memorial service, share memories with the family, schedule a time to video call the family, or donate to the memorial.
