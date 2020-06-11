@@ -14,14 +14,14 @@ On this site you can sign find details of how to watch the memorial service thro
 <div style="display: flex;">
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/obituary">
-<img src="/uploads/(1a) 5.jpg" style="height: 600px; width: fit-content; object-fit: cover;">
+<img src="/uploads/(1a) 5.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="obituary">Obituary »</h2>
 </a>
 </div>
 <hr>
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/share-memories">
-<img src="/uploads/IMG_8048_cropped.jpg" style="height: 600px; width: fit-content; object-fit: cover;">
+<img src="/uploads/IMG_8048_cropped.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="share-memories">Share Memories »</h2>
 </a>
 </div>
@@ -30,14 +30,14 @@ On this site you can sign find details of how to watch the memorial service thro
 <div style="display: flex;">
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/memorial-serivce">
-<img src="/uploads/Taylor_Sally_6_5_2020.jpg" style="height: 600px; width: fit-content; object-fit: cover;">
+<img src="/uploads/Taylor_Sally_6_5_2020.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="memorial-service">Memorial Service »</h2>
 </a>
 </div>
 <hr>
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/memorial-gifts">
-<img src="/uploads/(1a) 8.jpg" style="height: 600px; width: fit-content; object-fit: cover;">
+<img src="/uploads/(1a) 8.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="memorial-gifts">Memorial Gifts »</h2>
 </a>
 </div>
