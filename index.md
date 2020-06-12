@@ -7,7 +7,7 @@ notitle: "true"
 
 ## In Memory of Sally Anthony Taylor
 
-Sally Anthony Taylor peacefully passed from her earthly-home in Ames, IA to her heavenly-home on June 5, 2020--culminating a wonderful and rich lifetime of experiences.   Though we miss her, we rejoice for Sally in her homegoing as she has “graduated” to her heavenly-home and fully whole in mind and body.  
+Sally Anthony Taylor peacefully passed from her earthly-home in Ames, IA to her heavenly-home on June 5, 2020--culminating a wonderful and rich lifetime of experiences.   Though we miss her, we rejoice for Sally in her homegoing as she has “graduated” to her heavenly-home and is now fully whole in mind and body.  
 
 >I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed. For this perishable body must put on the imperishable, and this mortal body must put on immortality. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written:  
 >“Death is swallowed up in victory.”  “O death, where is your victory?  O death, where is your sting?”  
