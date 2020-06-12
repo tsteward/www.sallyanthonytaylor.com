@@ -30,7 +30,7 @@ On this site you can find details of how to watch the memorial service through l
 <hr>
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/share-memories">
-<img src="/uploads/IMG_8048.jpg" style="height: 600px; width: max-content; object-fit: cover;">
+<img src="/uploads/IMG_8048.JPG" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="share-memories">Share Memories »</h2>
 </a>
 </div>
