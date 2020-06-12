@@ -39,7 +39,7 @@ On this site you can find details of how to watch the memorial service through l
 <div style="display: flex;">
 <div style="flex-basis: 100%; padding: 10px">
 <a href="/online-visitations">
-<img src="/uploads/DonSal&kids Dec2010 CA.JPG" style="height: 600px; width: max-content; object-fit: cover;">
+<img src="/uploads/IMG_9838.JPG" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="online-visitations">Online Visitations »</h2>
 </a>
 </div>
