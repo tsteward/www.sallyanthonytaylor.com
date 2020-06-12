@@ -7,7 +7,18 @@ notitle: "true"
 
 ## In Memory of Sally Anthony Taylor
 
-Sally Anthony Taylor peacefully passed from her earthly-home in Ames, IA to her heavenly-home on June 5, 2020--culminating a wonderful and rich lifetime of experiences.  A Memorial Service will be held for Sally at the Heartland Baptist Church in Ames on June 19th at 2 pm.
+Sally Anthony Taylor peacefully passed from her earthly-home in Ames, IA to her heavenly-home on June 5, 2020--culminating a wonderful and rich lifetime of experiences.   Though we miss her, we rejoice for Sally in her homegoing as she has “graduated” to her heavenly-home and fully whole in mind and body.  
+
+>50 I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. 51 Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, 52 in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed. 53 For this perishable body must put on the imperishable, and this mortal body must put on immortality. 54 When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written:  
+>“Death is swallowed up in victory.”  
+>55 “O death, where is your victory?  
+>    O death, where is your sting?”  
+>56 The sting of death is sin, and the power of sin is the law. 57 But thanks be to God, who gives us the victory through our Lord Jesus Christ
+>
+>1 Corinthians 15:50-57
+
+
+A Memorial Service will be held for Sally at the Heartland Baptist Church in Ames on June 19th at 2 pm. 
 
 On this site you can sign find details of how to watch the memorial service through livestream, read the obituary, write the family a note or let the family know you would like to greet them via zoom in an online visitation.  [Dates and times to be announced soon.] Registration is required for the online visitation, so we can send a zoom link to your email address.
 
