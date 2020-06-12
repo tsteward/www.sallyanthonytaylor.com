@@ -29,22 +29,6 @@ On this site you can find details of how to watch the memorial service through l
 </div>
 <hr>
 <div style="flex-basis: 100%; padding: 10px">
-<a href="/share-memories">
-<img src="/uploads/IMG_8048.JPG" style="height: 600px; width: max-content; object-fit: cover;">
-<h2 style="margin: 0;" id="share-memories">Share Memories »</h2>
-</a>
-</div>
-</div>
-<hr>
-<div style="display: flex;">
-<div style="flex-basis: 100%; padding: 10px">
-<a href="/online-visitations">
-<img src="/uploads/IMG_9838.JPG" style="height: 600px; width: max-content; object-fit: cover;">
-<h2 style="margin: 0;" id="online-visitations">Online Visitations »</h2>
-</a>
-</div>
-<hr>
-<div style="flex-basis: 100%; padding: 10px">
 <a href="/memorial-serivce">
 <img src="/uploads/Taylor_Sally_6_5_2020.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="memorial-service">Memorial Service »</h2>
@@ -57,6 +41,22 @@ On this site you can find details of how to watch the memorial service through l
 <a href="/sally-through-81-years">
 <img src="/uploads/(1a) 8.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="sally-through-81-years">Sally Through 81 Years »</h2>
+</a>
+</div>
+<hr>
+<div style="flex-basis: 100%; padding: 10px">
+<a href="/online-visitations">
+<img src="/uploads/IMG_9838.JPG" style="height: 600px; width: max-content; object-fit: cover;">
+<h2 style="margin: 0;" id="online-visitations">Online Visitations »</h2>
+</a>
+</div>
+</div>
+<hr>
+<div style="display: flex;">
+<div style="flex-basis: 100%; padding: 10px">
+<a href="/share-memories">
+<img src="/uploads/IMG_8048.JPG" style="height: 600px; width: max-content; object-fit: cover;">
+<h2 style="margin: 0;" id="share-memories">Share Memories »</h2>
 </a>
 </div>
 <hr>
