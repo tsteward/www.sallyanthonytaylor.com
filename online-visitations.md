@@ -3,7 +3,7 @@ title: "Online Visitations"
 img: "/uploads/IMG_9838.JPG"
 ---
 
-For the safety of all, in lieu of an in-person visitation, the Taylor family will be hosting zoom video call visitations. Click on the Sign-Up Genius icon to and sign up for a visitation time.
+For the safety of all, in lieu of an in-person visitation, the Taylor family will be hosting zoom video call visitations. Click on the Sign-Up Genius icon to sign up for a visitation time.
 
 Online visitations will be held on: 
 
