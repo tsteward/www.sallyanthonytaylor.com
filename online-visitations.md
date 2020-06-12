@@ -2,9 +2,12 @@
 title: "Online Visitations"
 ---
 
-For the safety of all, in lieu of an in-person visitation, the Taylor family will be hosting zoom video call visitations. The family will connect with two callers or families for twelve-minute slots. Sign up through Sign-Up Genius, and the family will send you a zoom ID number and password so you can join the call at your appointed time.
+For the safety of all, in lieu of an in-person visitation, the Taylor family will be hosting zoom video call visitations. The family will connect with two callers or families for twelve-minute slots. Click on the Sign-Up Genius icon to and sign up for a time, and the family will send you a zoom ID number and password so you can join the call at your appointed time.
 
 Online visitations will be held on: 
+
+<a href="https://www.signupgenius.com/go/409094EA9AE2EA75-taylor" target="_blank"><img align="right" src="https://www.signupgenius.com/images/sign-up-now3.gif" width="150" height="90" border="0" alt="Sign Up!"></a>
+
 > ### **Tuesday, June 16th from 6-8 pm CST**  
 > ### **Tuesday, June 23rd from 4-6 pm CST**  
 > ### **Saturday, June 27th from 3-5 pm CST**  
