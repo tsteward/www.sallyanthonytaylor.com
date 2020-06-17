@@ -29,7 +29,7 @@ On this site you can find details of how to watch the memorial service through l
 </div>
 <hr>
 <div style="flex-basis: 100%; padding: 10px">
-<a href="/memorial-serivce">
+<a href="/memorial-service">
 <img src="/uploads/Taylor_Sally_6_5_2020.jpg" style="height: 600px; width: max-content; object-fit: cover;">
 <h2 style="margin: 0;" id="memorial-service">Memorial Service »</h2>
 </a>
