@@ -6,6 +6,6 @@ title: "Memorial Service"
 
 A Memorial Service will be held for Sally at the Heartland Baptist Church in Ames on June 19th at 2 pm Central Standard Time.  Because of COVID, the gathering will be limited to family members only.  
 
-The service will be streamed for live viewing.  Check back for a link on June 19th.  
+Unfortunately we will not be able to stream Sally’s memorial service for live viewing as previously planned, but the service will be recorded, and we will post a link for viewing the service on this page soon after the service.
 
-A link will also be posted here after the service for later viewing.
+Link to view Sally’s Memorial Service:  Coming soon!
