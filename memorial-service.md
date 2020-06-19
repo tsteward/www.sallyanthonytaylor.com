@@ -8,6 +8,6 @@ A Memorial Service will be held for Sally at the Heartland Baptist Church in Ame
 
 Unfortunately we will not be able to stream Sally’s memorial service for live viewing as previously planned, but the service will be recorded, and we will post a link for viewing the service on this page soon after the service.
 
-### Memorial Service Program PDF:  [Sally Taylor Memorial Service Program 19 June 2020](/uploads/Sally Taylor Memorial Service Program 19 June 2020.pdf)  Program pdf can be printed in “booklet” form.
+### Memorial Service Program PDF: [Sally Taylor Memorial Service Program 19 June 2020](/uploads/Sally Taylor Memorial Service Program 19 June 2020.pdf)Program pdf can be printed in “booklet” form.
 
 ## Link to view Sally’s Memorial Service:  Coming soon!
