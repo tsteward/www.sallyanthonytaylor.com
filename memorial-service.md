@@ -17,4 +17,5 @@ Unfortunately we will not be able to stream Sally’s memorial service for live 
 [Sally Taylor Memorial Service Program 19 June 2020](/uploads/Sally Taylor Memorial Service Program 19 June 2020.pdf)
 Program pdf can be printed in “booklet” form.
 
-## **Link to view Sally’s Memorial Service:  Coming soon!**
+## **View Sally’s Memorial Service Video:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WXzzk1BntPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
