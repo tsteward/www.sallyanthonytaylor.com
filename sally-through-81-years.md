@@ -3,7 +3,6 @@ title: "Sally Through 81 Years"
 img: "/uploads/(1a) 8_cropped.jpg"
 ---
 
-Sally Through 81 Years
 
 ## **Sally’s Earlier Years, 1938-1998**
 
