@@ -18,6 +18,10 @@ img: "/uploads/(1a) 8_cropped.jpg"
 “It is Not Death to Die”  Original words by Henri Malan (1787-1864). Translated by George Bethune (1847). Music, chorus, and alternate words by Bob Kauflin ©2008 Sovereign Grace Praise (BMI)  All rights reserved. Used by permission. www.SovereignGraceMusic.org.
 
 
+## **July 4th, 1964 -- Sal and Don's Wedding in Norseland, Minnesota**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ig6j2VJVcW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **In Christ Alone**   
 In Christ alone my hope is found;  
 He is my light, my strength, my song;  
